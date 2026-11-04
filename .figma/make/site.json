@@ -1,0 +1,11 @@
+{
+  "title": "Anushka Raut Portfolio",
+  "description": "Transforms Figma designs into standalone HTML, CSS, and JavaScript files, helping designers and developers turn visual concepts into web pages.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
